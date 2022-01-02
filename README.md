@@ -1,3 +1,3 @@
-# git_test
+# Odin_exercices
 
 Hello Odin!
